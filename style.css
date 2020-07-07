@@ -4,9 +4,7 @@
 .orange-bg{
     background-color: #fdeeed;
     border-radius: 10px;
-}
-.carousel-item{
-    padding-left: 40px;
+    background-size: 100%;
 }
 .price{
     color: #ff136f;
@@ -21,4 +19,7 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.resizing{
+    padding: 20px;
 }
