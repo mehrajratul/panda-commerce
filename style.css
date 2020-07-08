@@ -28,13 +28,13 @@
     border-radius: 10px;
 }
 .cat1{
-    background-image: linear-gradient(to bottom, rgb(238, 164, 27), rgb(134, 80, 134));
+    background-image: linear-gradient(to bottom, rgb(80, 219, 80), rgb(134, 80, 134));
 }
 .cat2{
-    background-color: orchid;
+    background-image: linear-gradient(to bottom, rgb(30, 135, 143), rgb(4, 63, 55));
 }
 .cat3{
-    background-color: blue;
+    background-image: linear-gradient(to bottom, rgb(49, 7, 44), rgb(197, 119, 197));
 }
 .categories h1{
     color: whitesmoke;
